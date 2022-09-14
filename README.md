@@ -16,7 +16,5 @@ Challenges and problem-solving have always been my passion, that's why when I di
 ![](https://github-readme-streak-stats.herokuapp.com/?user=felicaeiro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felicaeiro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=felicaeiro&icon=2&color=9)](https://visitcount.itsvg.in)
